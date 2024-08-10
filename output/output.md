@@ -7,7 +7,7 @@ Resultados obtidos com o input 01:
 | ![prompt_01_result_01.jpg](img/prompt_01_result_01.jpg)| ![prompt_01_result_02.jpg](img/prompt_01_result_02.jpg)|![prompt_01_result_03.jpg](img/prompt_01_result_03.jpg)| ![prompt_01_result_04.jpg](img/prompt_01_result_04.jpg)  | 
 
 > Prompt gerado como resultado do input 02:
-//TODO
+![input_02_result_prompt_03.png](img/input_02_result_prompt_03.png)
 
 Resultados obtidos com o prompt gerado pelo input 02:
 | 01| 02| 03| 04|
